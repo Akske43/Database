@@ -1,18 +1,26 @@
 [
+   {
+    title:"Hoddie",
+    des:"Trillion Half Zipper Solid Sweatshirt for Me" ,
+    rate:"rate: Rs 1500",
+    url:"./images/mens images/hoodie (2).webp",
+    catagory:"men",
+    discount:"999 (30% off)"
+    }, 
     {
-        "title": "Hoodie",
-        "des": "Trillion Half Zipper Solid Sweatshirt for Men",
-        "rate": "Rs 1500",
-        "url": "./images/mens images/hoodie (3).webp",
-        "category": "men",
-        "discount": "Rs 999 (30% off)"
+    title:"Hoddie",
+    des:"Trillion Half Zipper Solid Sweatshirt for Me" ,
+    rate:"rate: Rs 1500",
+    url:"./images/mens images/hoodie (3).webp",
+    catagory:"men",
+    discount:"999 (30% off)"
     },
     {
-        "title": "Hoodie",
-        "des": "Trillion Half Zipper Solid Sweatshirt for Men",
-        "rate": "Rs 1500",
-        "url": "./images/mens images/hoodie.webp",
-        "category": "men",
-        "discount": "Rs 999 (30% off)"
-    }
+    title:"Hoddie",
+    des:"Trillion Half Zipper Solid Sweatshirt for Me" ,
+    rate:"rate: Rs 1500",
+    url:"./images/mens images/hoodie.webp",
+    catagory:"men",
+    discount:"999 (30% off)"
+    },
 ]
