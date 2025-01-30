@@ -39,8 +39,6 @@
     "catagory":"men",
     "discount":"999 (30% off)"
     },
-    //hoodie
-    
     {
     "title":"JEANS",
     "des":"Men's Casual Stretchable Denim Tapered Fit Carrot Jeans_1" ,
@@ -81,10 +79,6 @@
     "catagory":"men",
     "discount":"999 (30% off)"
     },
-    
-    //jeans
-    
-    
     {
     "title":"JACKET",
     "des":"Jacket For Men Winter Wear Puffer Standard Length Jacket" ,
@@ -125,10 +119,6 @@
     "catagory":"men",
     "discount":"999 (30% off)"
     },
-    
-    //jackets
-    
-    
     {
     "title":"PENT COAT",
     "des":"Mehroon Waistcoat & Trouser Suit for Men's" ,
@@ -169,9 +159,6 @@
     "catagory":"men",
     "discount":"999 (30% off)"
     },
-    
-    //pent coat
-    
     {
     "title":"PENT SHIRT",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
@@ -236,9 +223,6 @@
     "catagory":"men",
     "discount":"999 (30% off)"
     },
-    
-    //shoes
-        
     {
     "title":"SHOES",
     "des":"Men's Energy Afterburn Disruptor for Multiple" ,
