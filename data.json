@@ -122,9 +122,6 @@
     "discount":"999 (30% off)"
     },
     
-    //jackets
-    
-    
     {
     "title":"PENT COAT",
     "des":"Mehroon Waistcoat & Trouser Suit for Men's" ,
@@ -165,9 +162,6 @@
     "catagory":"men",
     "discount":"999 (30% off)"
     },
-    
-    //pent coat
-    
     {
     "title":"PENT SHIRT",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
@@ -232,9 +226,6 @@
     "catagory":"men",
     "discount":"999 (30% off)"
     },
-    
-    //shoes
-        
     {
     "title":"SHOES",
     "des":"Men's Energy Afterburn Disruptor for Multiple" ,
