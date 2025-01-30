@@ -39,6 +39,8 @@
 "catagory":"men",
 "discount":"999 (30% off)"
 },
+//hoodie
+
 {
 "title":"JEANS",
 "des":"Men's Casual Stretchable Denim Tapered Fit Carrot Jeans_1" ,
@@ -139,7 +141,7 @@
 "title":"PENT COAT",
 "des":"GRey Waistcoat & Trouser Suit for Men's" ,
 "rate":"rate: Rs 6000",
-"url":"./images/mens-images/pentcoat2.webp",
+"url":"https://m.media-amazon.com/images/I/61FJVIxHU1L._AC_UL480_FMwebp_QL65_.jpg",
 "catagory":"men",
 "discount":"999 (30% off)"
 },
@@ -223,6 +225,9 @@
 "catagory":"men",
 "discount":"999 (30% off)"
 },
+
+//shoes
+
 {
 "title":"SHOES",
 "des":"Men's Energy Afterburn Disruptor for Multiple" ,
