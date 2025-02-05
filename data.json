@@ -1,4 +1,4 @@
-[
+const men=[
     {
     "title":"Hoddie",
     "des":"Trillion Half Zipper Solid Sweatshirt for Me" ,
@@ -389,7 +389,7 @@
     "Category":"Women",
     "des":"Pink and cute shirt",
     "rate" : 500,
-    "url":"./women clothes/clothes 1.jpeg",
+    "url":"./womens clothes/clothes 1.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -397,7 +397,7 @@
     "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 2.jpeg",
+    "url":"./womens clothes/clothes 2.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -405,7 +405,7 @@
     "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 3.jpeg",
+    "url":"./womens clothes/clothes 3.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -413,7 +413,7 @@
     "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 4.jpeg",
+    "url":"./womens clothes/clothes 4.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -421,7 +421,7 @@
     "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 5.jpeg",
+    "url":"./womens clothes/clothes 5.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -429,7 +429,7 @@
     "Category":"Women",
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 6.jpeg",
+    "url":"./womens clothes/clothes 6.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -437,7 +437,7 @@
     "Category":"Women",
     "des":"Beautiful Long skirt for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 7.jpeg",
+    "url":"./womens clothes/clothes 7.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -445,7 +445,7 @@
     "Category":"Women",
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 8.jpeg",
+    "url":"./womens clothes/clothes 8.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -453,7 +453,7 @@
     "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 9.jpeg",
+    "url":"./womens clothes/clothes 9.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -461,7 +461,7 @@
     "Category":"Women",
     "des":"Beautiful Long Skirt for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 10.jpeg",
+    "url":"./womens clothes/clothes 10.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -469,7 +469,7 @@
     "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 11.jpeg",
+    "url":"./womens clothes/clothes 11.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -477,7 +477,7 @@
     "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 12.jpeg",
+    "url":"./womens clothes/clothes 12.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -485,7 +485,7 @@
     "Category":"Women",
     "des":"Beautiful Long Frock for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 13.jpeg",
+    "url":"./womens clothes/clothes 13.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -493,7 +493,7 @@
     "Category":"Women",
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 14.jpeg",
+    "url":"./womens clothes/clothes 14.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -501,7 +501,7 @@
     "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 15.jpeg",
+    "url":"./womens clothes/clothes 15.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -509,7 +509,7 @@
     "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 16.jpeg",
+    "url":"./womens clothes/clothes 16.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -517,7 +517,7 @@
     "Category":"Women",
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 17.jpeg",
+    "url":"./womens clothes/clothes 17.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -525,7 +525,7 @@
     "Category":"Women",
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 18.jpeg",
+    "url":"./womens clothes/clothes 18.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -533,7 +533,7 @@
     "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 19.jpeg",
+    "url":"./womens clothes/clothes 19.jpeg",
     "discount":"1288 (38% off)"
     },
     {
@@ -541,7 +541,7 @@
     "Category":"Women",
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
-    "url":"./women clothes/clothes 20.jpeg",
+    "url":"./womens clothes/clothes 20.jpeg",
     "discount":"1288 (38% off)"
     },
     
