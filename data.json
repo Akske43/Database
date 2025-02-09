@@ -42,7 +42,7 @@
     {
     "title":"JEANS",
     "des":"Men's Casual Stretchable Denim Tapered Fit Carrot Jeans_1" ,
-    "rate":"rate: Rs 1000",
+      "rate": 1000,
     "url":"./mens images/jacket.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -50,7 +50,7 @@
     {
     "title":"JEANS",
     "des":"Men's Casual Stretchable Denim Tapered Fit Carrot Jeans_1" ,
-    "rate":"rate: Rs 1000",
+      "rate": 1000,
     "url":"./mens images/jacket2.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -58,7 +58,7 @@
     {
     "title":"JEANS",
     "des":"Men's Casual Stretchable Denim Tapered Fit Carrot Jeans_1" ,
-    "rate":"rate: Rs 1000",
+      "rate": 1000,
     "url":"./mens images/jacket3.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -66,7 +66,7 @@
     {
     "title":"JEANS",
     "des":"Men's Casual Stretchable Denim Tapered Fit Carrot Jeans_1" ,
-    "rate":"rate: Rs 1000",
+      "rate": 1000,
     "url":"./mens images/jacket4.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -82,7 +82,7 @@
     {
     "title":"JACKET",
     "des":"Jacket For Men Winter Wear Puffer Standard Length Jacket" ,
-    "rate":"rate: Rs 2000",
+     "rate":2000,
     "url":"./mens images/jacket.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -90,7 +90,7 @@
     {
     "title":"JACKET",
     "des":"Jacket For Men Winter Wear Puffer Standard Length Jacket" ,
-    "rate":"rate: Rs 2000",
+     "rate":2000,
     "url":"./mens images/jacket2.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -98,7 +98,7 @@
     {
     "title":"JACKET",
     "des":"Jacket For Men Winter Wear Puffer Standard Length Jacket" ,
-    "rate":"rate: Rs 2000",
+     "rate":2000,
     "url":"./mens images/jacket3.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -106,7 +106,7 @@
     {
     "title":"JACKET",
     "des":"Jacket For Men Winter Wear Puffer Standard Length Jacket" ,
-    "rate":"rate: Rs 2000",
+     "rate":2000,
     "url":"./mens images/jacket15.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -114,7 +114,7 @@
     {
     "title":"JACKET",
     "des":"Jacket For Men Winter Wear Puffer Standard Length Jacket" ,
-    "rate":"rate: Rs 2000",
+     "rate":2000,
     "url":"./mens images/jacket10.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -123,7 +123,7 @@
     {
     "title":"PENT COAT",
     "des":"Mehroon Waistcoat & Trouser Suit for Men's" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat11.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -131,7 +131,7 @@
     {
     "title":"PENT COAT",
     "des":"Black Waistcoat & Trouser Suit for Men's" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -139,7 +139,7 @@
     {
     "title":"PENT COAT",
     "des":"GRey Waistcoat & Trouser Suit for Men's" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -147,7 +147,7 @@
     {
     "title":"PENT COAT",
     "des":"Sky Blue Waistcoat & Trouser Suit for Men's" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat5.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -155,7 +155,7 @@
     {
     "title":"PENT COAT",
     "des":"Dark Blue Waistcoat & Trouser Suit for Men's" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat9.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -163,7 +163,7 @@
     {
     "title":"PENT SHIRT",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat11.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -171,7 +171,7 @@
     {
     "title":"PENT SHIRT",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -179,7 +179,7 @@
     {
     "title":"PENT SHIRT",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat2.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -187,7 +187,7 @@
     {
     "title":"JEANS",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/jeans44.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -195,7 +195,7 @@
     {
     "title":"hoodie",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/hoodie9.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -203,7 +203,7 @@
     {
     "title":"hoodie",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/hoodie16.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -211,7 +211,7 @@
     {
     "title":"PENT SHIRT",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 6000",
+     "rate": 6000,
     "url":"./mens images/pentcoat11.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -219,7 +219,7 @@
     {
     "title":"SHIRT",
     "des":"Men's Solid Cotton Shirt | Chinese Collar | Casual | Plain |" ,
-    "rate":"rate: Rs 1000",
+      "rate": 1000,
     "url":"./mens images/shirts18.webp",
     "catagory":"men",
     "discount":"999 (30% off)"
@@ -386,7 +386,7 @@
     }, 
     {
     "title":"Shirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Pink and cute shirt",
     "rate" : 500,
     "url":"./womens clothes/clothes 1.jpeg",
@@ -394,7 +394,7 @@
     },
     {
     "title":"Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 2.jpeg",
@@ -402,7 +402,7 @@
     },
     {
     "title":"Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 3.jpeg",
@@ -410,7 +410,7 @@
     },
     {
     "title":"Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 4.jpeg",
@@ -418,7 +418,7 @@
     },
     {
     "title":"Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 5.jpeg",
@@ -426,7 +426,7 @@
     },
     {
     "title":"Shirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 6.jpeg",
@@ -434,7 +434,7 @@
     },
     {
     "title":"Long Skirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long skirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 7.jpeg",
@@ -442,7 +442,7 @@
     },
     {
     "title":"Shirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 8.jpeg",
@@ -450,7 +450,7 @@
     },
     {
     "title":"Long Dress",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 9.jpeg",
@@ -458,7 +458,7 @@
     },
     {
     "title":"Long Skirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Skirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 10.jpeg",
@@ -466,7 +466,7 @@
     },
     {
     "title":"Long Skirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 11.jpeg",
@@ -474,7 +474,7 @@
     },
     {
     "title":"Long Skirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 12.jpeg",
@@ -482,7 +482,7 @@
     },
     {
     "title":"Long Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Frock for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 13.jpeg",
@@ -490,7 +490,7 @@
     },
     {
     "title":"Long Dress",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 14.jpeg",
@@ -498,7 +498,7 @@
     },
     {
     "title":"Long Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 15.jpeg",
@@ -506,7 +506,7 @@
     },
     {
     "title":"Long Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 16.jpeg",
@@ -514,7 +514,7 @@
     },
     {
     "title":"Long Dress",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 17.jpeg",
@@ -522,7 +522,7 @@
     },
     {
     "title":"Shirt",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 18.jpeg",
@@ -530,7 +530,7 @@
     },
     {
     "title":"Long Frock",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 19.jpeg",
@@ -538,7 +538,7 @@
     },
     {
     "title":"Long Dress",
-    "catagory":"Women",
+    "Category":"Women",
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 20.jpeg",
@@ -547,7 +547,7 @@
     
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery1.jpeg",
@@ -555,7 +555,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery2.jpeg",
@@ -563,7 +563,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery3.jpeg",
@@ -571,7 +571,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery4.jpeg",
@@ -580,7 +580,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery5.jpeg",
@@ -589,7 +589,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery6.jpeg",
@@ -598,7 +598,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery7.jpeg",
@@ -607,7 +607,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery8.jpeg",
@@ -616,7 +616,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery9.jpeg",
@@ -625,7 +625,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery10.jpeg",
@@ -634,7 +634,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery11.jpeg",
@@ -643,7 +643,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery12.jpeg",
@@ -652,7 +652,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery13.jpeg",
@@ -661,7 +661,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery14.jpeg",
@@ -670,7 +670,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate":500,
     "url":"./jewelery/jewelery15.jpeg",
@@ -679,7 +679,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate":500,
     "url":"./jewelery/jewelery16.jpeg",
@@ -688,7 +688,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate":500,
     "url":"./jewelery/jewelery17.jpeg",
@@ -697,7 +697,7 @@
     },
     {
     "title":"Necklace",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Necklace for Women",
     "rate":500,
     "url":"./jewelery/jewelery18.jpeg",
@@ -706,7 +706,7 @@
     },
     {
     "title":"FUll Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate":500,
     "url":"./jewelery/jewelery19.jpeg",
@@ -715,7 +715,7 @@
     },
     {
     "title":"Full Set",
-    "catagory":"Jewellery",
+    "Category":"Jewellery",
     "des":"Beautiful Jewellery Set for Women",
     "rate":500,
     "url":"./jewelery/jewelery20.jpeg",
@@ -725,7 +725,7 @@
     
     {
     "title":"Hair",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Hair Accessories for Women",
     "rate":500,
     "url":"./accessories/accessories1.jpeg",
@@ -733,7 +733,7 @@
     },
     {
     "title":"Hair",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Hair Accessories for Women",
     "rate":500,
     "url":"./accessories/accessories2.jpeg",
@@ -742,7 +742,7 @@
     },
     {
     "title":"Hand accessory",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Hand Band for Women",
     "rate":500,
     "url":"./accessories/accessories3.jpeg",
@@ -751,7 +751,7 @@
     },
     {
     "title":"Hand accessory",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Hand Accessories for Women",
     "rate":500,
     "url":"./accessories/accessories4.jpeg",
@@ -760,7 +760,7 @@
     },
     {
     "title":"Hair",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Hair Accessories for Women",
     "rate":500,
     "url":"./accessories/accessories5.jpeg",
@@ -769,7 +769,7 @@
     },
     {
     "title":"Hair",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Neckalce for Women",
     "rate":500,
     "url":"./accessories/accessories6.jpeg",
@@ -778,7 +778,7 @@
     },
     {
     "title":"Hand accessory",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Hair Accessories for Women",
     "rate":500,
     "url":"./accessories/accessories7.jpeg",
@@ -787,7 +787,7 @@
     },
     {
     "title":"Other",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" other Acessories",
     "rate":500,
     "url":"./accessories/accessories8.jpeg",
@@ -796,7 +796,7 @@
     },
     {
     "title":"Hand accessory",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":"Beautiful Hand Accessories for Women",
     "rate":500,
     "url":"./accessories/accessories9.jpeg",
@@ -805,7 +805,7 @@
     },
     {
     "title":"Other",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" other Acessories",
     "rate":500,
     "url":"./accessories/accessories10.jpeg",
@@ -814,7 +814,7 @@
     },
     {
     "title":"Other",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" other Acessories",
     "rate":500,
     "url":"./accessories/accessories11.jpeg",
@@ -823,7 +823,7 @@
     },
     {
     "title":"Other",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" other Acessories",
     "rate":500,
     "url":"./accessories/accessories12.jpeg",
@@ -832,7 +832,7 @@
     },
     {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories13.jpeg",
@@ -841,7 +841,7 @@
     },
     {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories14.jpeg",
@@ -850,7 +850,7 @@
     },
     {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories15.jpeg",
@@ -859,7 +859,7 @@
     },
     {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories16.jpeg",
@@ -868,7 +868,7 @@
     },
     {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories17.jpeg",
@@ -876,7 +876,7 @@
     "discount":"1288 (38% off)"
     }, {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories18.jpeg",
@@ -884,7 +884,7 @@
     "discount":"1288 (38% off)"
     }, {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories19.jpeg",
@@ -893,7 +893,7 @@
     },
     {
     "title":"Electrical Appliances",
-    "catagory":"accessories",
+    "Category":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories20.jpeg",
