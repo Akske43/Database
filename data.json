@@ -5,7 +5,8 @@
     "rate": 1500,
     "url":"./mens images/hoodie (3).webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"1"
     }, 
     {
     "title":"Hoddie",
@@ -13,7 +14,8 @@
     "rate": 1500,
     "url":"./mens images/hoodie (3).webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"2"
     },
     {
     "title":"Hoddie",
@@ -21,7 +23,8 @@
     "rate": 1500,
     "url":"./mens images/hoodie.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"3"
     },
     {
     "title":"Hoddie",
@@ -29,7 +32,8 @@
     "rate": 1500,
     "url":"./mens images/hoodie5.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"4"
     },
     {
     "title":"Hoddie",
@@ -37,7 +41,8 @@
     "rate": 1500,
     "url":"./mens images/hoodie6.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"5"
     },
     {
     "title":"JEANS",
@@ -45,7 +50,8 @@
       "rate": 1000,
     "url":"./mens images/jacket.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"6"
     },
     {
     "title":"JEANS",
@@ -53,7 +59,8 @@
       "rate": 1000,
     "url":"./mens images/jacket2.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"7"
     },
     {
     "title":"JEANS",
@@ -61,7 +68,8 @@
       "rate": 1000,
     "url":"./mens images/jacket3.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"8"
     },
     {
     "title":"JEANS",
@@ -69,7 +77,8 @@
       "rate": 1000,
     "url":"./mens images/jacket4.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"9"
     },
     {
     "title":"JEANS",
@@ -77,7 +86,8 @@
     "rate": 1500,
     "url":"./mens images/jacket5.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"10"
     },
     {
     "title":"JACKET",
@@ -85,7 +95,8 @@
      "rate":2000,
     "url":"./mens images/jacket.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"11"
     },
     {
     "title":"JACKET",
@@ -93,7 +104,8 @@
      "rate":2000,
     "url":"./mens images/jacket2.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"12"
     },
     {
     "title":"JACKET",
@@ -101,7 +113,8 @@
      "rate":2000,
     "url":"./mens images/jacket3.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"13"
     },
     {
     "title":"JACKET",
@@ -109,7 +122,8 @@
      "rate":2000,
     "url":"./mens images/jacket15.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"14"
     },
     {
     "title":"JACKET",
@@ -117,7 +131,8 @@
      "rate":2000,
     "url":"./mens images/jacket10.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"15"
     },
     
     {
@@ -126,7 +141,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat11.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"17"
     },
     {
     "title":"PENT COAT",
@@ -134,7 +150,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"18"
     },
     {
     "title":"PENT COAT",
@@ -142,7 +159,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"19"
     },
     {
     "title":"PENT COAT",
@@ -150,7 +168,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat5.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"20"
     },
     {
     "title":"PENT COAT",
@@ -158,7 +177,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat9.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"21"
     },
     {
     "title":"PENT SHIRT",
@@ -166,7 +186,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat11.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"22"
     },
     {
     "title":"PENT SHIRT",
@@ -174,7 +195,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"23"
     },
     {
     "title":"PENT SHIRT",
@@ -182,7 +204,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat2.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"24"
     },
     {
     "title":"JEANS",
@@ -190,7 +213,8 @@
      "rate": 6000,
     "url":"./mens images/jeans44.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"25"
     },
     {
     "title":"hoodie",
@@ -198,7 +222,8 @@
      "rate": 6000,
     "url":"./mens images/hoodie9.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"26"
     },
     {
     "title":"hoodie",
@@ -206,7 +231,8 @@
      "rate": 6000,
     "url":"./mens images/hoodie16.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"27"
     },
     {
     "title":"PENT SHIRT",
@@ -214,7 +240,8 @@
      "rate": 6000,
     "url":"./mens images/pentcoat11.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"29"
     },
     {
     "title":"SHIRT",
@@ -222,7 +249,8 @@
       "rate": 1000,
     "url":"./mens images/shirts18.webp",
     "catagory":"men",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"30"
     },
     {
     "title":"SHOES",
@@ -230,7 +258,8 @@
     "rate": 1500,
     "url":"./shoes images/men.jpg",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"31"
     }, 
     {
     "title":"SHOES",
@@ -238,7 +267,8 @@
     "rate": 1500,
     "url":"./shoes images/men1.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"32"
     }, 
     {
     "title":"SHOES",
@@ -246,7 +276,8 @@
     "rate": 1500,
     "url":"./shoes images/men1.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"33"
     }, 
     {
     "title":"SHOES",
@@ -254,7 +285,8 @@
     "rate": 1500,
     "url":"./shoes images/men4.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"34"
     }, 
     {
     "title":"SHOES",
@@ -262,7 +294,8 @@
     "rate": 1500,
     "url":"./shoes images/men5.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"35"
     }, 
     {
     "title":"SHOES",
@@ -270,7 +303,8 @@
     "rate": 1500,
     "url":"./shoes images/men6.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"36"
     }, 
     {
     "title":"SHOES",
@@ -278,7 +312,8 @@
     "rate": 1500,
     "url":"./shoes images/men7.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"37"
     }, 
     {
     "title":"SHOES",
@@ -286,7 +321,8 @@
     "rate": 1500,
     "url":"./shoes images/men8.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"38"
     }, 
     {
     "title":"SHOES",
@@ -294,7 +330,8 @@
     "rate": 1500,
     "url":"./shoes images/men9.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"39"
     }, 
     {
     "title":"SHOES",
@@ -302,7 +339,8 @@
     "rate": 1500,
     "url":"./shoes images/men10.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"40"
     },
     {
     "title":"SHOES",
@@ -310,7 +348,8 @@
     "rate": 1500,
     "url":"./shoes images/women.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"41"
     }, 
     {
     "title":"SHOES",
@@ -318,7 +357,8 @@
     "rate": 1500,
     "url":"./shoes images/women2.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"42"
     }, 
     {
     "title":"SHOES",
@@ -326,7 +366,8 @@
     "rate": 1500,
     "url":"./shoes images/women3.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"43"
     }, 
     {
     "title":"SHOES",
@@ -334,7 +375,8 @@
     "rate": 1500,
     "url":"./shoes images/women4.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"44"
     }, 
     {
     "title":"SHOES",
@@ -342,7 +384,8 @@
     "rate": 1500,
     "url":"./shoes images/women5.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"45"
     }, 
     {
     "title":"SHOES",
@@ -350,7 +393,8 @@
     "rate": 1500,
     "url":"./shoes images/women6.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"46"
     }, 
     {
     "title":"SHOES",
@@ -358,7 +402,8 @@
     "rate": 1500,
     "url":"./shoes images/women7.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"47"
     }, 
     {
     "title":"SHOES",
@@ -366,7 +411,8 @@
     "rate": 1500,
     "url":"./shoes images/women8.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"48"
     }, 
     {
     "title":"SHOES",
@@ -374,7 +420,8 @@
     "rate": 1500,
     "url":"./shoes images/women9.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"49"
     }, 
     {
     "title":"SHOES",
@@ -382,7 +429,8 @@
     "rate": 1500,
     "url":"./shoes images/women10.webp",
     "catagory":"shoes",
-    "discount":"999 (30% off)"
+    "discount":"999 (30% off)",
+    "id":"50"
     }, 
     {
     "title":"Shirt",
@@ -390,7 +438,8 @@
     "des":"Pink and cute shirt",
     "rate" : 500,
     "url":"./womens clothes/clothes 1.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"51"
     },
     {
     "title":"Frock",
@@ -398,7 +447,8 @@
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 2.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"52"
     },
     {
     "title":"Frock",
@@ -406,7 +456,8 @@
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 3.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"53"
     },
     {
     "title":"Frock",
@@ -414,7 +465,8 @@
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 4.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"54"
     },
     {
     "title":"Frock",
@@ -422,7 +474,8 @@
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 5.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"55"
     },
     {
     "title":"Shirt",
@@ -430,7 +483,8 @@
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 6.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"56"
     },
     {
     "title":"Long Skirt",
@@ -438,7 +492,8 @@
     "des":"Beautiful Long skirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 7.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"57"
     },
     {
     "title":"Shirt",
@@ -446,7 +501,8 @@
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 8.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"58"
     },
     {
     "title":"Long Dress",
@@ -454,7 +510,8 @@
     "des":"Beautiful Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 9.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"59"
     },
     {
     "title":"Long Skirt",
@@ -462,7 +519,8 @@
     "des":"Beautiful Long Skirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 10.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"60"
     },
     {
     "title":"Long Skirt",
@@ -470,7 +528,8 @@
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 11.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"61"
     },
     {
     "title":"Long Skirt",
@@ -478,7 +537,8 @@
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 12.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"62"
     },
     {
     "title":"Long Frock",
@@ -486,7 +546,8 @@
     "des":"Beautiful Long Frock for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 13.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"63"
     },
     {
     "title":"Long Dress",
@@ -494,7 +555,8 @@
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 14.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"64"
     },
     {
     "title":"Long Frock",
@@ -502,7 +564,8 @@
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 15.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"65"
     },
     {
     "title":"Long Frock",
@@ -510,7 +573,8 @@
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 16.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"66"
     },
     {
     "title":"Long Dress",
@@ -518,7 +582,8 @@
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 17.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"67"
     },
     {
     "title":"Shirt",
@@ -526,7 +591,8 @@
     "des":"Beautiful Shirt for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 18.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"68"
     },
     {
     "title":"Long Frock",
@@ -534,7 +600,8 @@
     "des":"Beautiful Long Frocks for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 19.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"69"
     },
     {
     "title":"Long Dress",
@@ -542,7 +609,8 @@
     "des":"Beautiful Long Dress for Women",
     "rate" : 500,
     "url":"./womens clothes/clothes 20.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"70"
     },
     
     {
@@ -551,7 +619,8 @@
     "des":"Beautiful Necklace for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery1.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"71"
     },
     {
     "title":"Full Set",
@@ -559,7 +628,8 @@
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery2.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"72"
     },
     {
     "title":"Full Set",
@@ -567,7 +637,8 @@
     "des":"Beautiful Jewellery Set for Women",
     "rate" : 500,
     "url":"./jewelery/jewelery3.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"73"
     },
     {
     "title":"Full Set",
@@ -576,7 +647,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery4.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"74"
     },
     {
     "title":"Necklace",
@@ -585,7 +657,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery5.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"75"
     },
     {
     "title":"Necklace",
@@ -594,7 +667,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery6.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"76"
     },
     {
     "title":"Necklace",
@@ -603,7 +677,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery7.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"77"
     },
     {
     "title":"Full Set",
@@ -612,7 +687,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery8.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"78"
     },
     {
     "title":"Full Set",
@@ -621,7 +697,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery9.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"79"
     },
     {
     "title":"Necklace",
@@ -630,7 +707,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery10.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"80"
     },
     {
     "title":"Full Set",
@@ -639,7 +717,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery11.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"81"
     },
     {
     "title":"Necklace",
@@ -648,7 +727,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery12.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"82"
     },
     {
     "title":"Full Set",
@@ -657,7 +737,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery13.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"83"
     },
     {
     "title":"Full Set",
@@ -666,7 +747,8 @@
     "rate" : 500,
     "url":"./jewelery/jewelery14.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"84"
     },
     {
     "title":"Necklace",
@@ -675,7 +757,8 @@
     "rate":500,
     "url":"./jewelery/jewelery15.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"85"
     },
     {
     "title":"Necklace",
@@ -684,7 +767,8 @@
     "rate":500,
     "url":"./jewelery/jewelery16.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"86"
     },
     {
     "title":"Necklace",
@@ -693,7 +777,8 @@
     "rate":500,
     "url":"./jewelery/jewelery17.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"87"
     },
     {
     "title":"Necklace",
@@ -702,7 +787,8 @@
     "rate":500,
     "url":"./jewelery/jewelery18.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"88"
     },
     {
     "title":"FUll Set",
@@ -711,7 +797,8 @@
     "rate":500,
     "url":"./jewelery/jewelery19.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"89"
     },
     {
     "title":"Full Set",
@@ -720,7 +807,8 @@
     "rate":500,
     "url":"./jewelery/jewelery20.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"90"
     },
     
     {
@@ -729,7 +817,8 @@
     "des":"Beautiful Hair Accessories for Women",
     "rate":500,
     "url":"./accessories/accessories1.jpeg",
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"91"
     },
     {
     "title":"Hair",
@@ -738,7 +827,8 @@
     "rate":500,
     "url":"./accessories/accessories2.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"92"
     },
     {
     "title":"Hand accessory",
@@ -747,7 +837,8 @@
     "rate":500,
     "url":"./accessories/accessories3.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"93"
     },
     {
     "title":"Hand accessory",
@@ -756,7 +847,8 @@
     "rate":500,
     "url":"./accessories/accessories4.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"94"
     },
     {
     "title":"Hair",
@@ -765,7 +857,8 @@
     "rate":500,
     "url":"./accessories/accessories5.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"95"
     },
     {
     "title":"Hair",
@@ -774,7 +867,8 @@
     "rate":500,
     "url":"./accessories/accessories6.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"96"
     },
     {
     "title":"Hand accessory",
@@ -783,7 +877,8 @@
     "rate":500,
     "url":"./accessories/accessories7.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"97"
     },
     {
     "title":"Other",
@@ -792,7 +887,8 @@
     "rate":500,
     "url":"./accessories/accessories8.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"98"
     },
     {
     "title":"Hand accessory",
@@ -801,7 +897,8 @@
     "rate":500,
     "url":"./accessories/accessories9.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"99"
     },
     {
     "title":"Other",
@@ -810,7 +907,8 @@
     "rate":500,
     "url":"./accessories/accessories10.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"100"
     },
     {
     "title":"Other",
@@ -819,7 +917,8 @@
     "rate":500,
     "url":"./accessories/accessories11.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"101"
     },
     {
     "title":"Other",
@@ -828,7 +927,8 @@
     "rate":500,
     "url":"./accessories/accessories12.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"102"
     },
     {
     "title":"Electrical Appliances",
@@ -837,7 +937,8 @@
     "rate":500,
     "url":"./accessories/accessories13.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"103"
     },
     {
     "title":"Electrical Appliances",
@@ -846,7 +947,8 @@
     "rate":500,
     "url":"./accessories/accessories14.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"104"
     },
     {
     "title":"Electrical Appliances",
@@ -855,7 +957,8 @@
     "rate":500,
     "url":"./accessories/accessories15.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"105"
     },
     {
     "title":"Electrical Appliances",
@@ -864,7 +967,8 @@
     "rate":500,
     "url":"./accessories/accessories16.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"106"
     },
     {
     "title":"Electrical Appliances",
@@ -873,7 +977,8 @@
     "rate":500,
     "url":"./accessories/accessories17.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"107"
     }, {
     "title":"Electrical Appliances",
     "catagory":"accessories",
@@ -881,15 +986,16 @@
     "rate":500,
     "url":"./accessories/accessories18.jpeg",
     
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+    "id":"108"
     }, {
     "title":"Electrical Appliances",
     "catagory":"accessories",
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories19.jpeg",
-    
-    "discount":"1288 (38% off)"
+    "discount":"1288 (38% off)",
+     "id":"109"
     },
     {
     "title":"Electrical Appliances",
@@ -897,7 +1003,7 @@
     "des":" Electrical Appliances",
     "rate":500,
     "url":"./accessories/accessories20.jpeg",
-    
+     "id":"110",
     "discount":"1288 (38% off)"
     }
     ]
